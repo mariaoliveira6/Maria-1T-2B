@@ -1,0 +1,91 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.cabecalho {
+  background-color: #012463;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 24px 0;
+}
+
+.cabecalho-imagem{
+  width: 20%;
+  border-radius: 20px;
+}
+
+.cabecalho-lista-item{
+  display: inline-block;
+  margin: 0 16px;
+  font-size: 24px;
+}
+
+.serie-imagem{
+  width: 20%;
+  border-radius: 20px;
+  margin-left: 50px;
+}
+
+.serie{
+  background-image: linear-gradient(#012463, #4EBFE9);
+  color: white;
+  display: flex;
+justify-content: center;
+  align-items: center;
+  padding: 24px 0;
+}
+
+.serie-div-conteudo{
+  width: 35%;
+}
+.serie-titulo{
+  padding: 24px 0;
+}
+
+.personagem-imagem{
+  width: 120px;
+}
+
+.personagem-imagem2{
+  width: 140px;
+}
+
+.personagem-icone{
+  width: 24px;
+}
+
+.personagem-div{
+  text-align: center;
+}
+
+.personagem-titulo{
+  text-align: center;
+  padding: 50px 0;
+}
+
+.personagem-todos{
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20%;
+}
+
+.rodape-imagem{
+  width: 40%;
+  padding: 0 0 0 0;
+  margin: auto;
+  display: block;
+}
+
+.estudante{
+  background-image: linear-gradient(#4EBFE9, #012463);
+  color: white;
+}
+.rodape{
+  padding: 0 0 0 0;  
+}
