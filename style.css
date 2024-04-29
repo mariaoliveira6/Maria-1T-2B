@@ -51,10 +51,7 @@ justify-content: center;
 
 .personagem-imagem{
   width: 120px;
-}
-
-.personagem-imagem2{
-  width: 140px;
+  border-radius: 20px;
 }
 
 .personagem-icone{
@@ -76,7 +73,7 @@ justify-content: center;
 }
 
 .rodape-imagem{
-  width: 40%;
+  width: 20%;
   padding: 0 0 0 0;
   margin: auto;
   display: block;
@@ -87,5 +84,5 @@ justify-content: center;
   color: white;
 }
 .rodape{
-  padding: 0 0 0 0;  
+  padding: 0 0 0 0;
 }
